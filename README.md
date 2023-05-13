@@ -7,8 +7,5 @@ To use the app, simply paste your text into the text area and the character coun
 # Development
 This app was built using HTML, CSS, and JavaScript. It has a simple, responsive design that should work well on desktop and mobile devices.
 
-# License
-This app is licensed under the MIT License. See the LICENSE file for details.
-
 # Acknowledgments
 This app was inspired by similar character and word counting tools found online.
