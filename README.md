@@ -1,4 +1,4 @@
-# Count Characters and Words
+# Word Counter
 This is a simple web app that allows you to paste in some text and get a count of the number of characters and words in the text. The character count includes spaces and the word count is determined by splitting the text on whitespace characters.
 
 # Usage
