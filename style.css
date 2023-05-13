@@ -14,7 +14,7 @@ body {
   }
   
   h1 {
-    margin: 0;
+    margin: 0 auto 0;
     font-size: 32px;
   }
   
@@ -48,9 +48,4 @@ body {
   
   span {
     color: #007bff;
-  }
-
-  h1 {
-    margin: 0 auto 0;
-    font-size: 32px;
   }
